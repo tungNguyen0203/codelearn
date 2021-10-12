@@ -14,6 +14,7 @@ public class ex_35_Manager extends ex_35_Employee{
 		return bonus;
 	}
 	// gaf
+	// chao em
 
 	public void setBonus(int bonus) {
 		this.bonus = bonus;
