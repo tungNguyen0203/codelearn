@@ -1,5 +1,5 @@
 package entity;
-
+// them nay
 import com.sun.beans.introspect.PropertyInfo.Name;
 
 public class ex_35_Manager extends ex_35_Employee{
